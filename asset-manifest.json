@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MoonPigDemo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/MoonPigDemo/static/js/main.36d4c553.chunk.js",
+    "main.js.map": "/MoonPigDemo/static/js/main.36d4c553.chunk.js.map",
+    "runtime-main.js": "/MoonPigDemo/static/js/runtime-main.d86283b9.js",
+    "runtime-main.js.map": "/MoonPigDemo/static/js/runtime-main.d86283b9.js.map",
+    "static/css/2.991579c9.chunk.css": "/MoonPigDemo/static/css/2.991579c9.chunk.css",
+    "static/js/2.c464335c.chunk.js": "/MoonPigDemo/static/js/2.c464335c.chunk.js",
+    "static/js/2.c464335c.chunk.js.map": "/MoonPigDemo/static/js/2.c464335c.chunk.js.map",
+    "index.html": "/MoonPigDemo/index.html",
+    "precache-manifest.45703bcffd4de91019ae256a1ab173bd.js": "/MoonPigDemo/precache-manifest.45703bcffd4de91019ae256a1ab173bd.js",
+    "service-worker.js": "/MoonPigDemo/service-worker.js",
+    "static/css/2.991579c9.chunk.css.map": "/MoonPigDemo/static/css/2.991579c9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/MoonPigDemo/static/css/main.5ecd60fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d86283b9.js",
+    "static/css/2.991579c9.chunk.css",
+    "static/js/2.c464335c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.36d4c553.chunk.js"
+  ]
+}
